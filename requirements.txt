@@ -1,0 +1,6 @@
+PyYAML
+google-cloud-pubsub
+google-cloud-storage
+google-cloud-monitoring
+geopandas
+rtree

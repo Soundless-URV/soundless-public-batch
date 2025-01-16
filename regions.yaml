@@ -1,0 +1,15 @@
+# For each desired region (province/city/county), write "<key>: <value>".
+#   key is the human readable name for the region.
+#   value is the filtering option in dataset, used by the script.
+
+# For each key-value pair, the script outputs a file with name: <key>_<date>.csv
+# that contains all the values for the region.
+
+provinces:
+- Tarragona: 43
+
+towns:
+- Tarragona: 431482
+- Reus: 431233
+
+counties:
